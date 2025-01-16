@@ -1,20 +1,5 @@
 # InnovateTech Company Website
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Alwan-Y/Austria-Marketplace/main/src/assets/austria.png" alt="Logo" width="200" height="200">
-</div>
-
-<div align="center">
-  <h3>
-    <a href="https://austria-marketplace.vercel.app/">
-      Demo
-    </a>
-    <span> | </span>
-    <a href="https://github.com/Alwan-Y/Austria-Marketplace">
-      Solution
-    </a>
-  </h3>
-</div>
 
 ## Table of Contents
 
